@@ -1,0 +1,30 @@
+name: accountability_coach
+description: Accountability Coach — goal tracking with AI breakdown and reminders.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  supabase_flutter: ^2.8.0
+  flutter_local_notifications: ^18.0.1
+  flutter_timezone: ^3.0.1
+  timezone: ^0.10.0
+  firebase_core: ^3.8.0
+  firebase_messaging: ^15.1.5
+  shared_preferences: ^2.3.3
+  http: ^1.2.2
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
