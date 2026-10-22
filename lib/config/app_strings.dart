@@ -1,7 +1,7 @@
 class AppStrings {
   AppStrings._();
 
-  static const appName = 'Accountability Coach';
+  static const appName = 'Waypoint';
   static const subtitle = "Let's make today count.";
   static const yourGoals = 'Your Goals';
   static const noGoals = 'No goals yet';

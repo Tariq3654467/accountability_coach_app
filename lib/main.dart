@@ -74,7 +74,7 @@ class AccountabilityCoachApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Accountability Coach',
+        title: 'Waypoint | Accountability Coach',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.light(),
         home: const _AuthGate(),
